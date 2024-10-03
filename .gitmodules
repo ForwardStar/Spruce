@@ -1,6 +1,3 @@
-[submodule "juntion"]
-	path = juntion
-	url = https://github.com/preshing/junction.git
 [submodule "junction"]
 	path = junction
 	url = https://github.com/preshing/junction.git
