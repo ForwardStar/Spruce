@@ -1,7 +1,8 @@
 # Spruce
 
-Open the ``Spruce'' subdirectory and execute the following commands to run the program:
+Execute the following commands to run the ``Spruce'' program:
 ```sh
+cd Spruce
 cmake .
 make
 ./Spruce
