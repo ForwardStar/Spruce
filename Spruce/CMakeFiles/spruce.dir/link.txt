@@ -1,2 +1,0 @@
-/usr/bin/ar qc libspruce.a CMakeFiles/spruce.dir/src/index_algorithms.cpp.o CMakeFiles/spruce.dir/src/memory_analysis.cpp.o CMakeFiles/spruce.dir/src/succinct_algorithms.cpp.o CMakeFiles/spruce.dir/src/spruce_transaction.cpp.o
-/usr/bin/ranlib libspruce.a
