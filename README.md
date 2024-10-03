@@ -2,7 +2,8 @@
 
 Execute the following commands to run the ``Spruce'' program:
 ```sh
-cd Spruce
+git clone https://github.com/ForwardStar/Spruce.git --recurse-submodules
+cd Spruce/Spruce
 cmake .
 make
 ./Spruce
