@@ -1,0 +1,10 @@
+/home/hxxie/forward_star/Spruce/Spruce/CMakeFiles/spruce.dir
+/home/hxxie/forward_star/Spruce/Spruce/CMakeFiles/Spruce.dir
+/home/hxxie/forward_star/Spruce/Spruce/CMakeFiles/edit_cache.dir
+/home/hxxie/forward_star/Spruce/Spruce/CMakeFiles/rebuild_cache.dir
+/home/hxxie/forward_star/Spruce/Spruce/junction/CMakeFiles/junction.dir
+/home/hxxie/forward_star/Spruce/Spruce/junction/CMakeFiles/edit_cache.dir
+/home/hxxie/forward_star/Spruce/Spruce/junction/CMakeFiles/rebuild_cache.dir
+/home/hxxie/forward_star/Spruce/Spruce/junction/turf/CMakeFiles/turf.dir
+/home/hxxie/forward_star/Spruce/Spruce/junction/turf/CMakeFiles/edit_cache.dir
+/home/hxxie/forward_star/Spruce/Spruce/junction/turf/CMakeFiles/rebuild_cache.dir
