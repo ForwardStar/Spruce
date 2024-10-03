@@ -1,1 +1,0 @@
-/usr/bin/c++  -fopenmp CMakeFiles/Spruce.dir/main.cpp.o CMakeFiles/Spruce.dir/src/memory_analysis.cpp.o CMakeFiles/Spruce.dir/src/index_algorithms.cpp.o CMakeFiles/Spruce.dir/src/succinct_algorithms.cpp.o CMakeFiles/Spruce.dir/test/demo.cpp.o CMakeFiles/Spruce.dir/src/spruce_transaction.cpp.o -o Spruce  -lpthread junction/libjunction.a junction/turf/libturf.a 
