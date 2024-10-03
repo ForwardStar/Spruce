@@ -13,6 +13,8 @@ if(OPENMP_FOUND)
 endif()
 set(CMAKE_CXX_STANDARD 20)
 
+add_subdirectory("junction")
+
 #file(GLOB GAPBS "third_party/gapbs/src/*")
 add_library(spruce STATIC src/index_algorithms.cpp src/memory_analysis.cpp src/succinct_algorithms.cpp src/spruce_transaction.h src/spruce_transaction.cpp)
 
